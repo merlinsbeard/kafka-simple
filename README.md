@@ -1,9 +1,15 @@
 # Kafka Simple
 
+Requirements:
+
+* Python 3.3 ++
+
 Installation:
 
 ```shell
-$ python setup.py install
+$ git@github.com:merlinsbeard/kafka-simple.git
+$ cd kafka-simple
+$ python3 setup.py install
 $ kafsim --help
 ```
 
